@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std; 
 int main() {
-	cout << "Hello cac ban" < endl;
+	cout << "update at 94_chithien" < endl;
 	return 0;
 }
